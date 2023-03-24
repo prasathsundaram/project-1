@@ -1,0 +1,16 @@
+.pain:hover{
+    background-color: yellow;
+}
+.pain{
+    text-align: center;
+}
+.Boys{
+    text-align: left;
+}
+.image{
+    width: 50%;
+    height: 50%;
+}
+.lorem{
+    text-align: right;
+}
