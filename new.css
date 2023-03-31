@@ -1,0 +1,17 @@
+.natural{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Candy{
+    display: flex;
+    justify-content: center;
+}
+.Candy:hover{
+    background-color: blueviolet;
+}
+.pargrap{
+    display: flex;
+}
+.Total{
+    justify-content: space-between;    
+}

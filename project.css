@@ -1,3 +1,7 @@
+.body{
+    display: flex;
+}
+
 .pain:hover{
     background-color: yellow;
 }
