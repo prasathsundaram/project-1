@@ -8,10 +8,13 @@
     display: flex;
     justify-content: space-evenly;
     height: 100vh;
-    padding: 200px;
+    align-items: center;
 }
 .food{
     text-align: left;
+}
+.colour{
+    color: brown;
 }
 .one{
     background-color: aquamarine;
