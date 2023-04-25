@@ -1,0 +1,21 @@
+.resume{
+    display: flex;
+    justify-content:space-between;
+}
+.name{
+    font-size: 50px;
+    display: flex;
+    color: blue;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.con{
+    padding-left: 25px;
+}
+.space{
+    justify-content: space-between;
+    font-style: italic;
+    font-size: 20px;
+}
